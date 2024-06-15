@@ -23,10 +23,6 @@ My research interest includes Simultaneous localization and mapping(SLAM) and Ro
 
 During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "# Project" section for more details.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 💡 Project 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
