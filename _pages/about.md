@@ -25,7 +25,7 @@ During my undergraduate studies, I participated in projects covering multiple ar
 
 # 💡 Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,10 +40,24 @@ During my undergraduate studies, I participated in projects covering multiple ar
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Competition
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interdisciplinary Contest In Modeling 2024]
+(https://gitee.com/zhafeifan/icim2024/blob/master/ICIM2024.pdf)
+
+Award:Meritorious Winner(International)
+
+Xianyu Liang, Fiefan Zha, Zhaoshun Sun
+
+[**Project**]
+- Using Analytic Hierarchy Process (AHP), TOPSIS, k-means, and other methods to construct a model for evaluating and protecting against natural disasters.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021-2023* First-class Scholarship（Top 10% of University),
+- *2021-2023* China Classification Society Scholarship (Top 5% of University).
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*,  Undergraduate, College of Future Technology, Harbin Engineering University, Harbin.
