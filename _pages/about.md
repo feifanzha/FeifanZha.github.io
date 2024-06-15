@@ -25,7 +25,7 @@ During my undergraduate studies, I participated in projects covering multiple ar
 
 # 💡 Project 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -43,15 +43,29 @@ During my undergraduate studies, I participated in projects covering multiple ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interdisciplinary Contest In Modeling 2024]
-(https://gitee.com/zhafeifan/icim2024/blob/master/ICIM2024.pdf)
+[Interdisciplinary Contest In Modeling 2024](https://gitee.com/zhafeifan/icim2024/blob/master/ICIM2024.pdf)
 
-Award:Meritorious Winner(International)
+**Award**:Meritorious Winner(National)
 
 Xianyu Liang, Fiefan Zha, Zhaoshun Sun
 
 [**Project**]
 - Using Analytic Hierarchy Process (AHP), TOPSIS, k-means, and other methods to construct a model for evaluating and protecting against natural disasters.
+</div>
+</div>
+
+- International College Students’ “Internet+”,Bronze Award(National),2023
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RMUA 2022</div><img src='images/drone.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Intelligent UAV Championship Simulator 2022]
+
+**Award**:Winning(RobotMaster Organizing Committee)
+
+[**Project**]
+- Sucessfully identify ring obstacles based on YOLO v5 and calculate the relevant world coordinates to control the
+drone to complete the circle mission
 </div>
 </div>
 
