@@ -21,7 +21,7 @@ I am an undergraduate student majoring in Automation at the College of Future Te
 
 My research interest includes Simultaneous localization and mapping(SLAM) and Robotic Perception.
 
-During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "# Project" section for more details.
+During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "Project" section for more details.
 
 # 💡 Project 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
