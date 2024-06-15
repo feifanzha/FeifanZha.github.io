@@ -24,6 +24,46 @@ My research interest includes Simultaneous localization and mapping(SLAM) and Ro
 During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "# Project" section for more details.
 
 # 💡 Project 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National College Student Innovation Training Program </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Design and practice of inertial-visual-lidar autonomous positioning in perception system based on factor graph optimization
+
+**Project**
+- Achieve pose estimation, loop closure and online temporal calibration of the platform based on visual-inertial sensor
+based on VINS-MONO. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRI </div><img src='images/MR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Deep Learning-Based Super-Resolution Reconstruction Technology for Magnetic Resonance Imaging (MRI)
+
+**Project**
+- Using the Transformer architecture and Stable Diffusion to achieve super-resolution for brain MRI images.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Assignment on Principles and Practice of Marine Vehicles</div><img src='images/yolo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Deep Residual Learning for Image Recognition
+
+**Project**
+- Using underwater dehazing and YOLOv5 technology for the identification of underwater organisms (sea cucumbers and scallops).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/16.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Three-axis rotation modulation based on psins
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +77,18 @@ During my undergraduate studies, I participated in projects covering multiple ar
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 
 # 🏆 Competition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIM 2024</div><img src='images/ICIM.jpg' alt="sym" width="100%"></div></div>
