@@ -21,7 +21,7 @@ I am an undergraduate student majoring in Automation at the College of Future Te
 
 My research interest includes Simultaneous localization and mapping(SLAM) and Robotic Perception.
 
-During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "Project" section for more details.
+During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "# Project" section for more details.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -42,6 +42,8 @@ During my undergraduate studies, I participated in projects covering multiple ar
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🏆 Competition
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
