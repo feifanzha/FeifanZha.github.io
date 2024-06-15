@@ -49,7 +49,7 @@ During my undergraduate studies, I participated in projects covering multiple ar
 
 Xianyu Liang, Fiefan Zha, Zhaoshun Sun
 
-[**Project**]
+**Project**
 - Using Analytic Hierarchy Process (AHP), TOPSIS, k-means, and other methods to construct a model for evaluating and protecting against natural disasters.
 </div>
 </div>
@@ -63,7 +63,7 @@ Xianyu Liang, Fiefan Zha, Zhaoshun Sun
 
 **Award**:Winning(RobotMaster Organizing Committee)
 
-[**Project**]
+**Project**
 - Sucessfully identify ring obstacles based on YOLO v5 and calculate the relevant world coordinates to control the
 drone to complete the circle mission
 </div>
