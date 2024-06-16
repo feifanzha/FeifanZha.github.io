@@ -35,7 +35,7 @@ based on VINS-MONO.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRI </div><img src='images/MR.png' alt="sym" width="170%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRI </div><img src='images/MR.png' alt="sym" width="160%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Deep Learning-Based Super-Resolution Reconstruction Technology for Magnetic Resonance Imaging (MRI)
