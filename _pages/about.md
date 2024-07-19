@@ -35,15 +35,6 @@ based on VINS-MONO.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MRI </div><img src='images/MR.png' alt="sym" width="160%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Deep Learning-Based Super-Resolution Reconstruction Technology for Magnetic Resonance Imaging (MRI)
-
-**Project**
-- Using the Transformer architecture and Stable Diffusion to achieve super-resolution for brain MRI images.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Result of Underwater Detection</div><img src='images/yolo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
