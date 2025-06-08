@@ -29,7 +29,7 @@ During my undergraduate studies, I participated in projects covering multiple ar
 - *2024.05*: &nbsp;🎉🎉 5 days visit to NTU in Singapore. 
 
 # 📝 Publications 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://ieeexplore.ieee.org/abstract/document/10786140), Feifan Zha, **IPIN 2024**
+- [OPPCON:An Accurate, Efficient Algorithm for Dynamic Feature Extraction](https://ieeexplore.ieee.org/abstract/document/10786140), Feifan Zha, **IPIN 2024**
 
 # 💡 Project 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
