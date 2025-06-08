@@ -23,6 +23,20 @@ My research interest includes Simultaneous localization and mapping(SLAM) and Ro
 
 During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "Project" section for more details.
 
+# 🔥 News
+- *2024.10*: &nbsp;🎉🎉 Paper had been accepted by 14th International Conference on Indoor Positioning and Indoor Navigation (IPIN 2024) 
+- *2025.02*: &nbsp;🎉🎉 7 days visit to Tokyo Univercity in Japan.
+- *2024.05*: &nbsp;🎉🎉 5 days visit to NTU in Singapore. 
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPIN 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OPPCON: An Accurate, Efficient Algorithm for Dynamic Feature Extraction](https://ieeexplore.ieee.org/abstract/document/10786140)
+
+**Feifan Zha**
+
 # 💡 Project 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
