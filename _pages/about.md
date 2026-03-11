@@ -38,12 +38,14 @@ During my undergraduate studies, I participated in projects covering multiple ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robust SLAM in tunnel environment </div><img src='images/tunnel.jpg' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Calibration the parameters between camera and lidar, core code about the gravity alignment and relocalization, uwb modeling in tunnel condition
+Calibration the parameters between camera and lidar, core code about the gravity alignment and relocalization, UWB modeling in tunnel condition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Design and practice of inertial-visual-lidar autonomous positioning in perception system based on factor graph optimization
+</div>
+</div>
 
 **Project**
 - Achieve pose estimation, loop closure and online temporal calibration of the platform based on visual-inertial sensor
