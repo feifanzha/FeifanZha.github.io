@@ -32,14 +32,15 @@ During my undergraduate studies, I participated in projects covering multiple ar
 - [OPPCON:An Accurate, Efficient Algorithm for Dynamic Feature Extraction](https://ieeexplore.ieee.org/abstract/document/10786140), Feifan Zha, **IPIN 2024**
 
 # 💡 Project 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robust SLAM in tunnel environment </div><img src='images/tunnel.jpg' alt="sym" width="20%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robust SLAM in tunnel environment </div><img src='images/tunnel.jpg' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Calibration the parameters between camera and lidar, core code about the gravity alignment and relocalization, uwb modeling in tunnel condition
-# 💡 Project 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
+**Project**
 Design and practice of inertial-visual-lidar autonomous positioning in perception system based on factor graph optimization
 
 **Project**
