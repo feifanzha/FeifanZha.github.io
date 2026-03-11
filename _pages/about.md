@@ -125,5 +125,6 @@ drone to complete the circle mission
 - *2021-2023* China Classification Society Scholarship (Top 5% of University).
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*,  Undergraduate, College of Future Technology, Harbin Engineering University, Harbin.
+- *2025.09 - now*    ,  Postgraduate, School of Control Science and Engineering, Dalian Univercity of Technology,Dalian.
+- *2021.09 - 2024.06*,  Undergraduate, College of Future Technology, Harbin Engineering University, Harbin.
 - *2018.09 - 2021.06*, High School Affiliated to Nanjing Normal University Jiangning Campus，Nanjing
