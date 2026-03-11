@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Automation at the College of Future Technology, Harbin Engineering University. If you would like to engage in further **academic discussions** with me, please feel free to email me at feifanzha@gmail.com. 
+I am an undergraduate student majoring in Automation at the School of Control Science and Engineering, Dalian Univercity of Technology. If you would like to engage in further **academic discussions** with me, please feel free to email me at feifanzha@gmail.com. 
 
-My research interest includes Simultaneous localization and mapping(SLAM) and Robotic Perception.
+My research interest includes Simultaneous localization and mapping(SLAM) and Robotic Perception, especially in fields of robust conception in Low-texture repetitive degradation environment.
 
 During my undergraduate studies, I participated in projects covering multiple areas including SLAM, artificial intelligence, and traditional inertial navigation. Please refer to the "Project" section for more details.
 
@@ -31,6 +31,11 @@ During my undergraduate studies, I participated in projects covering multiple ar
 # 📝 Publications 
 - [OPPCON:An Accurate, Efficient Algorithm for Dynamic Feature Extraction](https://ieeexplore.ieee.org/abstract/document/10786140), Feifan Zha, **IPIN 2024**
 
+# 💡 Project 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robust SLAM in tunnel environment </div><img src='images/tunnel.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Calibration the parameters between camera and lidar, core code about the gravity alignment and relocalization, uwb modeling in tunnel condition
 # 💡 Project 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Map of Building 61 </div><img src='images/ORB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
